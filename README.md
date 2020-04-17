@@ -1,6 +1,6 @@
 # Heroku aria2c
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shingz96/heroku-aria2c)
 
 ## Optionally sync downloaded file to your cloud drive with Rclone
 
